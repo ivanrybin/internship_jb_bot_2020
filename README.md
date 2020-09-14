@@ -1,5 +1,7 @@
 # Тестовое задание на проект "Бот-помощник для поиска решений типовых проблем" JetBrains
 
+Особенности реализации: используется библиотека `requests`.
+
 Представлено в двух вариантах: 
 - [Jupyter ноутбук](https://github.com/ivanrybin/internship_jb_bot_2020/blob/master/kotlin_top_30_words.ipynb) - сразу видно результат из GitHub
 - [проект на Python](https://github.com/ivanrybin/internship_jb_bot_2020/tree/master/normal_python) - запускается как все проекты (run в PyCharm или `python main.py` из консоли)
